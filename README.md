@@ -82,7 +82,7 @@ L'emprunteur type est jeune (âge médian 26 ans), gagne 55 000 $ (médiane) et 
 | **Objet du prêt** | Création d'entreprise 14,9 % · Études 17,3 % · Personnel 19,9 % · Travaux 26,2 % · Santé 26,8 % · **Regroupement de dettes 28,7 %** |
 | Âge | de 20,1 % à 23,3 % : quasi plat |
 
-![Facteurs](dashboards/dashboard_2.png)
+![Facteurs](dashboard_2.png)
 
 ### 5.3 Quels facteurs comptent vraiment ?
 - **Les plus discriminants** (valeur d'information) : ratio prêt/revenu (0,92), note (0,88), taux (0,72), revenu (0,41), logement (0,38). L'âge (0,005) et l'ancienneté de crédit (0,004) n'apportent rien.
@@ -103,7 +103,7 @@ L'emprunteur type est jeune (âge médian 26 ans), gagne 55 000 $ (médiane) et 
 **Marge ajustée par note :** A +2,9 · B +3,7 · C +4,1 · **D −11,2 · E −12,0 · F −13,1 · G −24,1 points**. Les notes D à G perdent de l'argent même au taux facturé.
 
 ### 5.5 Modèle de scoring
-![Scoring](dashboards/dashboard_3.png)
+![Scoring](dashboard_3.png)
 
 | Modèle | AUC (test) | Gini | KS |
 |---|---:|---:|---:|
