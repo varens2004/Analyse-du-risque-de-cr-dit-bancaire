@@ -3,7 +3,7 @@
 > Projet de data analyse de bout en bout : profils d'emprunteurs, facteurs de défaut, indicateurs de risque, comparaison de groupes, scoring et recommandations d'octroi.
 > **Outils : Python (pandas, SciPy, statsmodels, scikit-learn), SQL (SQLite), statistiques, Power BI.**
 
-![Vue d'ensemble](dashboards/dashboard_1.png)
+![Vue d'ensemble](dashboard_1.png)
 
 ## 1. Contexte et objectifs
 Une banque veut savoir **qui fait défaut, pourquoi, et comment ajuster sa politique d'octroi**. Le projet répond à quatre questions :
